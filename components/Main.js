@@ -5,7 +5,7 @@ import Link from 'next/link'
 const Main = () => {
     return (
       <>
-        <div>
+        <div className="page-title">
           <h1 className="info-title">Tatuerings studio i världsklass</h1>
         </div>
         <div className="info-content">
