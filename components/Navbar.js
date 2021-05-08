@@ -33,11 +33,11 @@ const Navbar = () => {
                   Galleri
                 </a>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <a className="nav-link" href="/contact">
                   Kontakt
                 </a>
-              </li>
+              </li> */}
               <li className="nav-item dropdown">
                 <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li>
